@@ -6,7 +6,7 @@ A tiny collection of string utility functions, used to practice the pull request
 
 - `titleCase(str)` — capitalizes the first letter of each word.
 - `slugify(str)` — converts a string into a URL-friendly slug.
-- `truncate(str, maxLength)` — shortens a string to a maximum lenght, adding an ellipsis if truncated.
+- `truncate(str, maxLength)` — shortens a string to a maximum length, adding an ellipsis if truncated.
 
 ## Usage
 
